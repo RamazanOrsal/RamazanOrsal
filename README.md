@@ -20,7 +20,7 @@ Ich bin ein Junior Data Analyst mit einem Studienabschluss in Mathematik und Inf
 - 🧮 **Lehrer-Notenpanel**  
   Eine benutzerfreundliche Python-Anwendung mit SQLite-Datenbank, die es Lehrkräften ermöglicht, Schülernoten einzugeben, zu analysieren und Durchschnittswerte zu berechnen.
 
-- ❓ Quiz-App mit Python
+- ❓  **Quiz-App mit Python**
 Es handelt sich um ein interaktives Multiple-Choice-Quiz-Projekt, das in Python entwickelt wurde. Die Anwendung verwendet SQL, um Fragen zu speichern, und ermöglicht es den Benutzern, Fragen zu beantworten, ihre Punktzahl zu sehen und Rückmeldungen zum Abschluss zu erhalten. Dieses Projekt demonstriert den Einsatz von Funktionen, Datenstrukturen und Datenbanken in Python.
 
 - 📈 **(In Kürze)** Power BI Projekt  
