@@ -36,7 +36,7 @@ Ich bin ein Junior Data Analyst mit einem Studienabschluss in Mathematik und Inf
 
 
 ### 📬 Kontakt
-- 📧 ramazan.orsal@email.com  
+- 📧 ramazanorsal@gmail.com  
 - 🌍 [LinkedIn-Profil](https://www.linkedin.com/in/ramazanorsal)
 - 
 
