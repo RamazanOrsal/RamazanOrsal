@@ -14,7 +14,7 @@ Ich bin ein Junior Data Analyst mit einem Studienabschluss in Mathematik und Inf
 
 ### 📁 Ausgewählte Projekte
 
-- 🏫 **SchoolDB – Schulverwaltungs- und Stundenplan-System**
+- 🏫 **SchoolDB – Schulverwaltungs- und Stundenplan-System** 
   Eine vollständige Schulverwaltungsanwendung mit Python, Pandas und MySQL. Das System ermöglicht das Anlegen und Verwalten von Lehrkräften, Klassen, Schülern und Unterrichtsfächern. Zusätzlich wird ein     wöchentlicher Stundenplan automatisch generiert und als Excel-Dateien pro Klasse exportiert.
 
 - 📊 **Mietwohnungen in Deutschland**  
